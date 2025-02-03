@@ -13,6 +13,6 @@ I’m all about **learning thoroughly**, tackling **real-world problems 📁**, 
 - Always down to learn something new, even if it’s just a random fun fact 🤓  
 
 ## 📫 Let’s Connect!  
-- 💼 [LinkedIn](#linkedin.com/in/amar-yasser-fayad/)  
+- 💼 [LinkedIn](linkedin.com/in/amar-yasser-fayad/)  
 - 🌐 [Portfolio/Website](#) Coming soon!  
-- ✉️ [Email](#amaraly304@gmail.com)  
+- ✉️ [Email](amaraly304@gmail.com)  
