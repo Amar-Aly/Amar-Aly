@@ -1,6 +1,6 @@
 ## 🚀 About Me  
 👋 Hi there! I'm **Amar Aly**, a passionate Computer Engineering student who loves diving deep into **Machine Learning 🤖**, **Mathematics 📊**, and **all kinds of interesting technology 💡**.  
-I’m all about **learning thoroughly**, tackling **real-world problems 📁**, and sharing my journey through code.  
+I’m all about **learning thoroughly**, and tackling **real-world problems 📁**.  
 
 ## 🛠️ What I’m Working On  
 - 🤯 Building smart systems (like **AI-powered projects**)  
